@@ -50,7 +50,7 @@ The dataset used includes the following features:
 - *Product Category*: Type of product purchased.
 - *Quantity*: Number of items in each order.
 - *Revenue*: Total revenue generated for each transaction.
-- *Region*: Geographic region of the customer.
+
 
 The dataset is processed using *pandas* for cleaning, handling missing values, and feature engineering. It is then visualized using *Power BI* for comprehensive insights.
 
